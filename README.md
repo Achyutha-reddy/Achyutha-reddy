@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=achyutha-reddy" alt="achyutha-reddy" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://achyutha-reddy.github.io/achyuthsweb/](https://achyutha-reddy.github.io/achyuthsweb/)
+- You can view my Portfolio at [https://achyutha-reddy.github.io/achyuthsweb/](https://achyutha-reddy.github.io/achyuthsweb/)
 
 - 📫 How to reach me **achyuthareddyborampeta@gmail.com**
 
