@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Achyutha Reddy</h1>
+<h1 align="center" >Hi 👋, I'm Achyutha Reddy</h1>
 <h3 align="center">A passionate Developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=achyutha-reddy&label=Profile%20views&color=0e75b6&style=flat" alt="achyutha-reddy" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=achyutha-reddy" alt="achyutha-reddy" /></a> </p>
 
-- You can view my Portfolio at [https://achyutha-reddy.github.io/achyuthsweb/](https://achyutha-reddy.github.io/achyuthsweb/)
+- You can view my Portfolio at [https://achyutha-reddy.github.io/achyuthsweb/](https://achyutha-reddy.github.io/connectme/)
 
 - 📫 How to reach me **achyuthareddyborampeta@gmail.com**
 
